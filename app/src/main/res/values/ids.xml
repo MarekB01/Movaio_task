@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_fullscreen_photo_photo" type="id" />
+    <item name="activity_fullscreen_photo_user_avatar" type="id" />
+    <item name="activity_fullscreen_photo_fab_menu" type="id" />
+    <item name="activity_fullscreen_photo_fab_favourite" type="id" />
+    <item name="activity_fullscreen_photo_fab_wallpaper" type="id" />
+    <item name="activity_fullscreen_photo_username" type="id" />
+</resources>
